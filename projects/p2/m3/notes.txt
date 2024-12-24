@@ -1,0 +1,11 @@
+
+** Types of errors: 
+in machine learing, two types of errors easy to make, oversimplifying and overcomplicating the problem.
+1. underfitting
+    - one characterstic is, it doesnt do well in training set
+    - Error due to bias
+2. overfitting
+    - does wll in the training set, but it tends to memorize it instead of learning the characterstics of it.
+    - not done good at test set
+    - Error due to variance
+     
